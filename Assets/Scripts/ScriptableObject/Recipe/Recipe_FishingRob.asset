@@ -15,12 +15,12 @@ MonoBehaviour:
   recipe:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
   - {fileID: 0}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
+  - {fileID: 11400000, guid: e1d21718f174ee74e87ceb438b7fddeb, type: 2}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  resultItemData: {fileID: 0}
-  resultItemCount: 0
+  - {fileID: 11400000, guid: e1d21718f174ee74e87ceb438b7fddeb, type: 2}
+  resultItemData: {fileID: 11400000, guid: 27da27380f67ac54e9670a92b0e0f017, type: 2}
+  resultItemCount: 1

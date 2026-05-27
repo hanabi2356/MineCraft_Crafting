@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: Recipe_Pick_Wood
   m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipe
   recipe:
+  - {fileID: 11400000, guid: 6c6a413db0d77c34780833544f3002e2, type: 2}
+  - {fileID: 11400000, guid: 6c6a413db0d77c34780833544f3002e2, type: 2}
+  - {fileID: 11400000, guid: 6c6a413db0d77c34780833544f3002e2, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  resultItemData: {fileID: 0}
-  resultItemCount: 0
+  resultItemData: {fileID: 11400000, guid: 595634e18a387724c9d82daade7b725f, type: 2}
+  resultItemCount: 1

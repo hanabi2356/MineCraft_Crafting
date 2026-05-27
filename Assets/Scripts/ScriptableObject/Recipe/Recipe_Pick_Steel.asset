@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: Recipe_Pick_Steel
   m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipe
   recipe:
+  - {fileID: 11400000, guid: 5c9281a6f09f8b54cab9e71f9ca30718, type: 2}
+  - {fileID: 11400000, guid: 5c9281a6f09f8b54cab9e71f9ca30718, type: 2}
+  - {fileID: 11400000, guid: 5c9281a6f09f8b54cab9e71f9ca30718, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 11400000, guid: 766e48a216eb858458c713d4e62cf4a3, type: 2}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  resultItemData: {fileID: 0}
-  resultItemCount: 0
+  resultItemData: {fileID: 11400000, guid: b1521519f0ae79c40846d2643a6ee0cd, type: 2}
+  resultItemCount: 1
